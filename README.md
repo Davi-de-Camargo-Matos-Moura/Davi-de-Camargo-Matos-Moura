@@ -3,7 +3,7 @@ Olá, eu sou o Davi
 Sou um entusiasta da tecnologia com grande interesse em desenvolvimento de software, automação e inovação digital. Gosto de transformar ideias em projetos práticos e aprender algo novo a cada linha de código.
 Atualmente, busco oportunidades para crescer profissionalmente e contribuir com soluções criativas na área de tecnologia.
 
-🧠 Sobre mim:
+🧠 Sobre mim:\n
 🎯 Sempre explorando novas linguagens, frameworks e ferramentas.
 📚 Estudante contínuo de programação e tecnologia.
 🎵 A música é minha inspiração para criar e pensar de forma diferente.
